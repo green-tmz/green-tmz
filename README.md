@@ -7,6 +7,7 @@ My name is Ruslan Yamaletdinov. I'm a web developer. My main specialization is b
 
 💻 I work with:
 
+![Php](https://img.shields.io/badge/php-programming-%234f5b93?style=flat&logo=php)
 ![Golang](https://img.shields.io/badge/golang-programming-%2300ADD8?style=flat&logo=go)
 ![Postgres](https://img.shields.io/badge/postgresql-database-%23336791?style=flat&logo=postgresql)
 ![Mongo](https://img.shields.io/badge/mongodb-database-%2347A248?style=flat&logo=mongodb)
