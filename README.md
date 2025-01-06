@@ -1,9 +1,9 @@
 ## 👋 Hi, my name Ruslan Yamaletdinov
-My name is Ruslan Yamaletdinov. I'm a web developer. My main specialization is back-end development.
-
 [![Telegram](https://img.shields.io/badge/Telegram-ping-%232CA5E0?style=flat&logo=telegram)](https://t.me/green_tmz)
 [![email](https://img.shields.io/badge/email-blueviolet?style=flat)](mailto:green.tmz@yandex.ru)
 [![CV](https://img.shields.io/badge/CV-hire-success?style=flat)](https://hh.ru/resume/2e565c77ff0d8d845d0039ed1f4c6d44574632)
+
+My name is Ruslan Yamaletdinov. I'm a web developer. My main specialization is back-end development.
 
 <!--
 **green-tmz/green-tmz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
