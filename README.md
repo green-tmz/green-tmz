@@ -1,4 +1,5 @@
 ## 👋 Hi, my name Ruslan Yamaletdinov
+My name is Ruslan Yamaletdinov. I'm a web developer. My main specialization is back-end development.
 
 <!--
 **green-tmz/green-tmz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
