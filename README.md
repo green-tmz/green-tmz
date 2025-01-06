@@ -10,7 +10,7 @@ My name is Ruslan Yamaletdinov. I'm a web developer. My main specialization is b
 ![Php](https://img.shields.io/badge/php-programming-%234f5b93?style=flat&logo=php)
 ![Golang](https://img.shields.io/badge/golang-programming-%2300ADD8?style=flat&logo=go)
 ![Postgres](https://img.shields.io/badge/postgresql-database-%23336791?style=flat&logo=postgresql)
-![Mongo](https://img.shields.io/badge/mongodb-database-%2347A248?style=flat&logo=mongodb)
+![MySql](https://img.shields.io/badge/mysql-database-%2347A248?style=flat&logo=mysql)
 ![Docker](https://img.shields.io/badge/docker-containers-%232496ED?style=flat&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-containers-%23326CE5?style=flat&logo=kubernetes)
 ![Google Cloud](https://img.shields.io/badge/google-cloud-%234285F4?style=flat&logo=google%20cloud)
