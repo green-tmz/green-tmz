@@ -12,8 +12,7 @@ My name is Ruslan Yamaletdinov. I'm a web developer. My main specialization is b
 ![Postgres](https://img.shields.io/badge/postgresql-database-%23336791?style=flat&logo=postgresql)
 ![MySql](https://img.shields.io/badge/mysql-database-%23f29221?style=flat&logo=mysql)
 ![Docker](https://img.shields.io/badge/docker-containers-%232496ED?style=flat&logo=docker)
-![Kubernetes](https://img.shields.io/badge/kubernetes-containers-%23326CE5?style=flat&logo=kubernetes)
-![Google Cloud](https://img.shields.io/badge/google-cloud-%234285F4?style=flat&logo=google%20cloud)
+![Vue](https://img.shields.io/badge/vuejs-frontend-%2342b883?style=flat&logo=vuejs)
 
 <!--
 **green-tmz/green-tmz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
